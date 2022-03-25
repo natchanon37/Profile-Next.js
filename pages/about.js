@@ -22,13 +22,13 @@ const about = () => {
 
           <div className="text-justify w-60 md:w-96 md:px-0">
             <Container className="text-lg font-SerifPro indent-3">
-              My name is Natchanon Wanthong, I'm a Software Developer for
+              My name is Natchanon Wanthong, I&apos;m a Software Developer for
               Windows applications, IoT system and Image processing based in
               Tokyo.
             </Container>
             <Container className="text-lg font-SerifPro indent-3">
-              In my free time I'm a self-taught frond-end and design Responsive
-              website
+              In my free time I&apos;m a self-taught frond-end and design
+              Responsive website
             </Container>
           </div>
         </div>
