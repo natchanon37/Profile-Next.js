@@ -20,15 +20,15 @@ const about = () => {
             ></Image>
           </div>
 
-          <div className="text-justify w-60 md:w-96 md:px-0">
-            <Container className="text-lg font-SerifPro indent-3">
+          <div className="w-auto mx-8 text-justify md:w-96 md:px-0">
+            <Container className="text-xl text-justify font-SerifPro indent-3">
               My name is Natchanon Wanthong, I&apos;m a Software Developer for
               Windows applications, IoT system and Image processing based in
               Tokyo.
             </Container>
-            <Container className="text-lg font-SerifPro indent-3">
-              In my free time I&apos;m a self-taught frond-end and design
-              Responsive website
+            <Container className="text-xl font-SerifPro indent-3">
+              In my free time, I&apos;m a self-taught Web developer with
+              experience in maintaining and build responsive website.
             </Container>
           </div>
         </div>
