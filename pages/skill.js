@@ -14,9 +14,7 @@ const skill = () => {
             <ul className="mb-10 font-serif text-xl list-disc">
               <li> Portfolio website using Next.js, Tailwind</li>
               <li> Portfolio website using React, styled-components</li>
-              <li>
-                Opensea clone website using Next.js, Thirdweb, Sanity, Tailwind
-              </li>
+              <li>Blog website using NextJs, Tailwind CSS and GraphQL.</li>
               <li>
                 {" "}
                 Automated deploy React Apps using GitHub Actions and Firebase

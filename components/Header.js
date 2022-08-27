@@ -164,7 +164,7 @@ function Nav() {
         >
           {(ref) => (
             <div className="md:hidden" id="mobile-menu">
-              <div ref={ref} className="pt-2 pb-3 space-y-1 flexpx-2 sm:px-3">
+              <div ref={ref} className="flex px-2 pt-2 pb-3 space-y-1 sm:px-3">
                 <Link
                   href="/index"
                   activeClass="index"
